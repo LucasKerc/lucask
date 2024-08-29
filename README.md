@@ -1,0 +1,2 @@
+# lucask
+projeto de tecnologia 
